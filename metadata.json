@@ -1,0 +1,5 @@
+{
+  "name": "Biblioteca",
+  "description": "Gerenciamento inteligente de livros com sistema de repetição espaçada, estatísticas detalhadas e metas de leitura.",
+  "requestFramePermissions": []
+}
